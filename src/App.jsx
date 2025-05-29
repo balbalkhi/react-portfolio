@@ -1,11 +1,7 @@
-import './App.css'
-import MainRouter from './MainRouter'
+import MainRouter from './MainRouter';
 
 function App() {
-
-  return (
-    <MainRouter />
-  )
+  return <MainRouter />;
 }
 
-export default App
+export default App;
